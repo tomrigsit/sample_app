@@ -18,3 +18,6 @@
 
 # Ignore softlink to rails
 /script/rails
+
+# Ignore Spring files.
+/spring/*.pid
